@@ -30,31 +30,31 @@ const more = String.fromCharCode(8206)
 const readMore = more.repeat(4001)
 
 /*============= MAIN INFO =============*/
-global.owner = [['628xxxx', 'Hilman', true]]
+global.owner = [['6285788390394', 'Scarlatte', true]]
 global.mods = []
 global.prems = []
-global.nomorbot = '628xxx' // ubah pake no kalian
-global.nomorown = '628xxx'// ubah pake no kalian
-global.nameown = 'Hilman' //nama Owner
+global.nomorbot = '62887437195264' // ubah pake no kalian
+global.nomorown = '6285788390394'// ubah pake no kalian
+global.nameown = 'Scarlatte' //nama Owner
 global.version = '10.0.0'
-global.autotyping = false // default mati
-global.autorecording = false // default mati
+global.autotyping = true // default mati
+global.autorecording = true // default mati
 
 /*============= WATERMARK =============*/
 global.readMore = readMore
-global.author = 'Hilman'
-global.namebot = 'RyoYamada-MD'
+global.author = 'Scarlatte'
+global.namebot = 'Zoltraak-MD'
 global.wm = 'Hilman cihuyy'
 global.watermark = wm
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.stickpack = `RyoYamada MD ✦\nPowered by ${namebot}\nwa.me/${nomorbot}`
-global.stickauth = `© Hilman`
+global.stickpack = `Zoltraak MD ✦\nPowered by ${namebot}\nwa.me/${nomorbot}`
+global.stickauth = `© Scarlatte`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 
 /*============= SOSMED =============*/
-global.sig = 'https://www.instagram.com/hilman_ackerman'
+global.sig = '-'
 global.sgh = '-'
 global.sgc = '_'
 global.sgw = '_'
@@ -77,7 +77,7 @@ global.capikey = "-" // capikey / pltc lu
 
 /*============= DONASI =============*/
 global.qris = '_'
-global.psaweria = 'https://saweria.co/Hilmanytta'
+global.psaweria = '-'
 
 /* ===== MENU MEDIA ===== */
 global.menuThumb = 'https://raw.githubusercontent.com/himanackerman/Image/main/1768274212195-581.jpeg' // thumbnail menu
